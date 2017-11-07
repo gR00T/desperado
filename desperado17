@@ -1,0 +1,10 @@
+Level Goal
+
+Once you've gotten the password for Desperado 17:
+
+The password for the next level is stored in a file readme in the homedirectory of desperado17.
+Unfortunately, someone has modified .bashrc to log you out when you log in with SSH.
+
+Commands you may need to solve this level
+
+ssh, ls, cat
