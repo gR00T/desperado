@@ -1,0 +1,10 @@
+Level Goal
+
+The password for the next level is stored somewhere on the server and has all of the following properties:
+
+owned by user desperado7
+owned by group desperado6
+XX bytes in size
+Commands you may need to solve this level
+
+ls, cd, cat, file, du, find, grep
